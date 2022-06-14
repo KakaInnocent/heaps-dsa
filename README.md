@@ -1,4 +1,4 @@
-# heaps-dsa
+# HEAPS - Data Structure
 Heaps
 This repository serves an introductory lesson to understanding heaps in detail </br>
 There are two types of heaps
